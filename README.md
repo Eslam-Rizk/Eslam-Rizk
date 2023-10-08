@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Rizk</h1>
-<h3 align="center">A self-motivated problem solver embedded software engineer from Egypt</h3>
+<h3 align="center">A self-motivated problem solver embedded software engineer, Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
