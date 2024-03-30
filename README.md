@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Hi 👋! My name is Eslam Rizk and I'm an Embedded Software/Linux Engineer from Egypt</h2>
 
 ###
 
