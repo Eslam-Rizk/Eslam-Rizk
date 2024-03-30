@@ -36,12 +36,9 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eslam-rizk-6a029a145/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/EslamMRizk2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<a href="https://twitter.com/eslammrizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslammrizk" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/eslam-rizk-6a029a145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eslam-rizk-6a029a145" height="30" width="40" /></a>
+</p>
