@@ -13,15 +13,13 @@
 
 </div>
 
-
-## About Me
-
-Passionate about creating innovative solutions across the technology spectrum - from low-level embedded systems to dynamic web applications. I thrive on challenges that require both technical depth and creative problem-solving.
-
+<br><br>
 
 ## Technical Arsenal
 
-  ### 🔧 Embedded Systems & Hardware
+<br>
+
+### 🔧 Embedded Systems & Hardware
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
   <img width="12" />
@@ -35,6 +33,8 @@ Passionate about creating innovative solutions across the technology spectrum - 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" title="MATLAB"/>
 </div>
+
+<br><br>
 
 ### 🌐 MERN Stack & Web Development
 <div align="center">
@@ -53,6 +53,8 @@ Passionate about creating innovative solutions across the technology spectrum - 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
 </div>
 
+<br><br>
+
 ### 🖥️ Systems & Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
@@ -68,16 +70,13 @@ Passionate about creating innovative solutions across the technology spectrum - 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="PuTTY" title="PuTTY"/>
 </div>
 
-## What I Do
-
-- **🔌 Embedded Systems Development**: Firmware development, microcontroller programming, and IoT solutions
-- **🌐 Full-Stack Web Development**: Modern web applications using the MERN stack
-- **🤖 Hardware-Software Integration**: Bridging embedded systems with web and mobile interfaces
-- **⚡ Performance Optimization**: From real-time systems to scalable web applications
+<br><br><br>
 
 ## 📈 Current Focus
 
 🔥 Exploring the intersection of IoT, web technologies, and mobile applications to create seamless connected experiences.
+
+<br><br>
 
 ---
 
