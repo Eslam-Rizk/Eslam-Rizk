@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Rizk</h1>
-<h3 align="center">Embedded Software/Linux engineer, Egypt</h3>
+<h3 align="center">Embedded Software Engineer & MERN Stack Developer, Egypt</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
