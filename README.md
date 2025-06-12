@@ -21,8 +21,8 @@ Passionate about creating innovative solutions across the technology spectrum - 
 
 ## Technical Arsenal
 
-### 🔧 Embedded Systems & Hardware
-<div align="left">
+  ### 🔧 Embedded Systems & Hardware
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
@@ -37,7 +37,7 @@ Passionate about creating innovative solutions across the technology spectrum - 
 </div>
 
 ### 🌐 MERN Stack & Web Development
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
@@ -54,7 +54,7 @@ Passionate about creating innovative solutions across the technology spectrum - 
 </div>
 
 ### 🖥️ Systems & Tools
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu"/>
